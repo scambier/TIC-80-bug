@@ -3,7 +3,7 @@
 - `cd` into this directory
 - Launch TIC-80 with the following command:
 ```sh
-path\to\tic80-old.exe --fs=. --cmd "load game.js & load code.js code & run" --keepcmd
+path\to\tic80.exe --fs=. --cmd "load game.js & load code.js code & run" --keepcmd
 ```
 
 ### Normal behavior:
