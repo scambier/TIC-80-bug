@@ -1,3 +1,5 @@
+Repro for https://github.com/nesbox/TIC-80/issues/1827
+
 ## How to reproduce
 
 - `cd` into this directory
